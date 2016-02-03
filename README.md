@@ -1,2 +1,3 @@
 # android-account-manager-sample
-Android Device Account manager (Create and get)
+- Creating account
+- Getting account list
